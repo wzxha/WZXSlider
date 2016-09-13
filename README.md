@@ -1,4 +1,5 @@
 # WZXSlider
+![image](https://img.shields.io/badge/Language-Swift3-blue.svg)<br/>
 Gradient color slider
 
 # Function
