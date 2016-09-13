@@ -3,7 +3,10 @@ Gradient color slider
 
 # Function
 ```swift
-   open func wzx_setMinimumTrackImage(startColor: UIColor, endColor: UIColor, startPoint: CGPoint, endPoint: CGPoint)
+   open func wzx_setMinimumTrackImage(startColor: UIColor, 
+                                        endColor: UIColor,
+                                      startPoint: CGPoint,
+                                        endPoint: CGPoint)
 ```
 # Example
 ```swift
